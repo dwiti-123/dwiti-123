@@ -2,7 +2,7 @@
 
 Hi 👋 I'm **Dwiti**
 
-I’m a **Frontend Developer** who loves building clean, responsive, and user-friendly interfaces — and I’m equally curious about what happens behind the scenes.  
+I’m a **Early Career Dev** who loves building clean, responsive, and user-friendly interfaces — and I’m equally curious about what happens behind the scenes.  
 I enjoy turning designs into real experiences and exploring how frontend and backend systems connect in real-world applications.
 
 ⚙️ **Tech Focus:** JavaScript | React | UI frameworks | Git  

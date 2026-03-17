@@ -2,12 +2,12 @@
 
 Hi 👋 I'm **Dwiti**
 
-I’m a **Early Career Dev** who loves building clean, responsive, and user-friendly interfaces — and I’m equally curious about what happens behind the scenes.  
-I enjoy turning designs into real experiences and exploring how frontend and backend systems connect in real-world applications.
+I'm a **Full Stack Engineer** who loves building clean, responsive, and user-friendly interfaces — and equally owns what happens behind the scenes.
+I enjoy turning designs into real experiences and engineering how frontend and backend systems connect in real-world products.
 
-⚙️ **Tech Focus:** JavaScript | React | UI frameworks | Git  
-🌱 **Currently Learning:** Backend development, APIs, databases & authentication  
-🚀 **Dream:** Build meaningful products that solve real problems and help people
+⚙️ **Tech Focus:** TypeScript | React | Next.js | Node.js | REST APIs
+🌱 **Currently Exploring:** LangChain, RAG, AI-powered product workflows
+🚀 **What drives me:** Building meaningful products that solve real problems — end to end
 
 ---
 
@@ -27,11 +27,9 @@ I enjoy turning designs into real experiences and exploring how frontend and bac
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/chakra--ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ---
 
@@ -42,7 +40,6 @@ I enjoy turning designs into real experiences and exploring how frontend and bac
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
@@ -53,24 +50,23 @@ I enjoy turning designs into real experiences and exploring how frontend and bac
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
 
 ---
 
 ## 🧠 What I Enjoy Working On
 
-- 🎨 Building modern, responsive frontend interfaces  
-- ⚛️ Developing scalable React & Next.js applications  
-- 🔐 Connecting frontend apps with APIs and authentication  
-- 🧩 Solving UI/UX and logic problems through clean code  
+- ⚛️ Building data-heavy React interfaces with clean component architecture
+- 🔗 Designing API contracts that match how users actually interact with a product
+- 🤖 Integrating AI APIs (Gemini, Anthropic) into real multi-step user workflows
+- 🧩 Owning features end-to-end — from database schema to final UI
 
 ---
 
 ## ✨ Developer Philosophy
-> *“Always learning, always improving, always building.”*
+> *"Design first. Then build. Then optimise."*
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=dwiti-123&icon=0&color=11)](https://visitcount.itsvg.in)

@@ -1,72 +1,98 @@
-## 💫 About Me
 
-Hi 👋 I'm **Dwiti**
+# Hey, I'm Dwiti 👋
 
-I'm a **Full Stack Engineer** who loves building clean, responsive, and user-friendly interfaces — and equally owns what happens behind the scenes.
-I enjoy turning designs into real experiences and engineering how frontend and backend systems connect in real-world products.
+**Full-Stack / Product Engineer** focused on building intuitive user experiences and the systems behind them.
 
-⚙️ **Tech Focus:** TypeScript | React | Next.js | Node.js | REST APIs
-🌱 **Currently Exploring:** LangChain, RAG, AI-powered product workflows
-🚀 **What drives me:** Building meaningful products that solve real problems — end to end
+I'm currently one of two engineers building a **workforce-management platform**, owning features end-to-end across React, TypeScript, Express, APIs, and databases.
 
----
+I enjoy working on complex frontend interactions, solving real product problems, and improving how applications behave in production.
 
-## 🌐 Connect with Me
+Currently exploring **AI agents, developer tools, and reliable AI-powered systems**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwiti-mehta-a42117254/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dwitimehta20@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-o64f.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwiti-mehta-a42117254/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dwitimehta20@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## What I've Worked On
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+### Building production software
 
----
+At **Zerotime**, I'm part of a two-engineer team building a workforce-management system.
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+- **End-to-end feature ownership:** Built and maintained profile and leave-management modules across the frontend, backend, and database.
+- **Complex business logic:** Implemented configurable leave policies, including validation across separate leave requests.
+- **Frontend engineering:** Worked on attendance and announcement workflows, with a focus on usable interfaces and maintainable component architecture.
+- **API architecture & performance:** Identified unnecessary coupling between profile, leave, and attendance data flows. Helped separate API requests, updated frontend fetching, and removed redundant database operations to improve response times.
+- **Integrations:** Worked with Twilio and multi-stage communication workflows, including delivery and failure tracking.
+
+I like understanding the entire feature—not just the part of the codebase I'm assigned to.
 
 ---
 
-### 🛠️ Tools & Workflow
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+## Selected Projects
+
+### 📚 Study Buddy — AI-Powered Learning
+
+An application that helps users learn from PDFs and YouTube content using AI-powered workflows.
+
+**Stack:** Next.js, Node.js, MongoDB, Gemini
+
+**What I explored:**
+- Integrating LLM capabilities into a practical learning workflow
+- Handling different content sources through a single user experience
+- Building the frontend and backend of an AI-powered application
+
+### 🔖 Smart Bookmark — AI-Assisted Bookmark Management
+
+A bookmark-management application with AI-assisted functionality.
+
+**Stack:** Supabase, Anthropic
+
+**What I explored:**
+- Authentication and persistent user data
+- AI-powered bookmark organization
+- Connecting frontend interactions with backend services
+
+> More projects and demos: [Portfolio](https://portfolio-o64f.vercel.app/)
 
 ---
 
-## 🧠 What I Enjoy Working On
+## Technologies I Work With
 
-- ⚛️ Building data-heavy React interfaces with clean component architecture
-- 🔗 Designing API contracts that match how users actually interact with a product
-- 🤖 Integrating AI APIs (Gemini, Anthropic) into real multi-step user workflows
-- 🧩 Owning features end-to-end — from database schema to final UI
-
----
-
-## ✨ Developer Philosophy
-> *"Design first. Then build. Then optimise."*
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux, shadcn/ui |
+| **Backend** | Node.js, Express, REST APIs, JWT |
+| **Databases** | MongoDB, MySQL, Supabase |
+| **AI Integration** | Gemini, Anthropic, LLM APIs |
+| **Tools** | Git, GitHub, Postman, Figma, Vercel, Render |
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=dwiti-123&icon=0&color=11)](https://visitcount.itsvg.in)
+## What Interests Me
+
+- **Product engineering:** Turning complex requirements into simple, useful experiences.
+- **Frontend systems:** Building responsive, interactive interfaces with thoughtful state management.
+- **Backend & reliability:** Designing clear API boundaries, improving performance, and handling edge cases.
+- **AI engineering:** Exploring agents, RAG, evaluations, and practical AI-powered workflows.
+- **Open source:** Learning from production codebases and contributing meaningful improvements.
+
+---
+
+## How I Approach Engineering
+
+**Understand the problem → Design the system → Build → Test → Improve.**
+
+I use AI-assisted development tools such as Codex and Claude to accelerate exploration and implementation, while staying responsible for architecture, edge cases, correctness, and the final result.
+
+I care about understanding *why* something works—not just getting it to work.
+
+---
+
+### Let's Connect
+
+I'm interested in ambitious startup teams building developer tools, AI-powered products, and technically challenging software.
+
+[Portfolio](https://portfolio-o64f.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/dwiti-mehta-a42117254/) · [Email](mailto:dwitimehta20@gmail.com)
